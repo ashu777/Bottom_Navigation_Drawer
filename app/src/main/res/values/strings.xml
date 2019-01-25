@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottom_Navigation_Drawer</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="ios">Ios</string>
+    <string name="android">Android</string>
+    <string name="blackberry">Blackberry</string>
+
+    <string name="android_text">Android is a mobile operating system developed by Google.</string>
+    <string name="ios_text">iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple Inc.</string>
+    <string name="blackberry_text">BlackBerry is a line of smartphones, tablets, and services originally designed and marketed by Canadian company BlackBerry Limited.</string>
+</resources>

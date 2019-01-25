@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_android"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="@string/android" />
+
+
+    <item
+        android:id="@+id/navigation_ios"
+        android:icon="@drawable/ic_apple"
+        android:title="@string/ios" />
+
+
+
+
+
+
+    <item
+        android:id="@+id/navigation_blackberry"
+        android:icon="@drawable/ic_blackberry"
+        android:title="@string/blackberry" />
+
+</menu>
